@@ -1,18 +1,20 @@
 import pickle 
 import streamlit as st   
 import numpy as np
+
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import Tokenizer
 with open('model_next_word.pkl','rb') as f:
     model=pickle.load(f)
+
+with open('text.txt','r') as f:
+        text=f.read()
 
 st.title(" Next Word Suggestion Model")
 
 a=st.chat_input("write your  words")
 #st.header(" Here is Word Suggestion")
 try:
-    with open('text.txt','r') as f:
-        text=f.read()
     t = Tokenizer()
     t.fit_on_texts([text])
     
