@@ -1,4 +1,4 @@
-'''Hello,
+Hello,
 How are you.
 What are you doing now.
 I am watching TV now.
@@ -198,5 +198,5 @@ While she was reading, the doorbell rang, startling her.
 Provided that you finish your work on time, you may leave early today.
 Although the offer was tempting, he decided to decline for ethical reasons.
 If you had followed the instructions carefully, you wouldn’t have encountered any issues.
-As soon as the presentation ended, the audience erupted in applause.'''
+As soon as the presentation ended, the audience erupted in applause
 
