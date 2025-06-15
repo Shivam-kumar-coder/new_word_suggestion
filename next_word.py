@@ -8,7 +8,7 @@ with open('model_next_word.pkl','rb') as f:
     model=pickle.load(f)
 
 with open('text.txt','r') as f:
-        text=f.read()
+    text=f.read()
 t = Tokenizer()
 t.fit_on_texts([text])
 
