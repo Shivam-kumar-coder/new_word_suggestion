@@ -1,4 +1,4 @@
-Hello,
+'''Hello,
 How are you.
 What are you doing now.
 I am watching TV now.
@@ -7,15 +7,15 @@ I am just sitting idle.
 I am just messaging you.
 Are you free tomorrow.
 No, I have work tomorrow.
-It’s okay; no problem.
+Itâ€™s okay; no problem.
 How do I do it.
 Where are you from.
 I am from Mumbai.
 Please change your DP.
 As you wish.
-Let’s talk later.
+Letâ€™s talk later.
 What do you do.
-What’s going on.
+Whatâ€™s going on.
 Where are you nowadays.
 Are you busy now.
 Yes, I am very busy right now.
@@ -42,13 +42,13 @@ Who gave you, my number.
 May I know your number.
 Please introduce yourself.
 Wait a minute.
-You didn’t reply.
+You didnâ€™t reply.
 Where do you live.
 How much do you earn.
 Who are you.
-Sorry, I didn’t recognize you.
+Sorry, I didnâ€™t recognize you.
 What is your intention.
-It’s unfair.
+Itâ€™s unfair.
 I am used to it.
 What do you mean.
 Forward this message to all.
@@ -79,10 +79,10 @@ When will you come online.
 Scroll up and read my messages.
 Upload it to status.
 Your number was not saved.
-I think you don’t want to talk.
-I messaged you, but you didn’t reply.
+I think you donâ€™t want to talk.
+I messaged you, but you didnâ€™t reply.
 You can call me anytime.
-Don’t message, or else I will block you.
+Donâ€™t message, or else I will block you.
 Send me all the pictures.
 I am sending you the number.
 I am waiting.
@@ -90,14 +90,14 @@ Try to understand.
 Do you speak English.
 Your status is awesome.
 Share with your friends.
-Let’s make a video call.
-I can’t see your DP.
+Letâ€™s make a video call.
+I canâ€™t see your DP.
 Why did you remove your DP.
-What’s happening here.
+Whatâ€™s happening here.
 Is this the right time to message you.
-No, it’s okay.
+No, itâ€™s okay.
 I will be ready in a while.
-Don’t delete your message.
+Donâ€™t delete your message.
 The company is committed to providing top-notch service.
 She has a keen interest in environmental issues.
 The project faced several unforeseen challenges.
@@ -133,7 +133,7 @@ The committee values honesty, integrity, and transparency.
 The proposal was well-structured, thoroughly researched, and persuasively argued.
 He is ambitious, driven, and highly motivated to succeed.
 The program aims to educate, empower, and inspire young people.
-The company’s mission is to innovate, collaborate, and excel in all endeavors.
+The companyâ€™s mission is to innovate, collaborate, and excel in all endeavors.
 She spends her weekends hiking, cooking, and catching up on her favorite shows.
 His hobbies include playing guitar, traveling, and photography.
 The speech was both informative and entertaining.
@@ -142,10 +142,10 @@ Buy bestselling books online
 She hit the nail on the head with her insightful comment.
 The company decided to cut corners to save money.
 He was over the moon when he heard the news.
-They’re walking on thin ice by ignoring the manager’s instructions.
-I’ll have to sleep on it before making a final decision.
+Theyâ€™re walking on thin ice by ignoring the managerâ€™s instructions.
+Iâ€™ll have to sleep on it before making a final decision.
 They were left in the lurch when the project was abruptly canceled.
-He’s burning the midnight oil to finish the report.
+Heâ€™s burning the midnight oil to finish the report.
 She took the initiative and brought up the issue in the meeting.
 They finally called off the event due to unforeseen circumstances.
 He had to face the music for his mistakes.
@@ -173,8 +173,8 @@ If I had known about the meeting, I would have attended it.
 If he works hard, he will achieve his goals.
 Had she taken the other route, she might have arrived earlier.
 If I were you, I would reconsider that decision.
-If the weather is nice tomorrow, we’ll go for a hike.
-If she hadn’t missed the bus, she would have been on time.
+If the weather is nice tomorrow, weâ€™ll go for a hike.
+If she hadnâ€™t missed the bus, she would have been on time.
 Were it not for his advice, I would have made a huge mistake.
 If you had studied more, you would have passed the exam.
 If they invest in that company, they stand to gain substantial profits.
@@ -183,9 +183,9 @@ The symbiotic relationship between the two species is fascinating to biologists.
 Her tenacity in the face of adversity is truly commendable.
 The convoluted plot of the novel left many readers puzzled.
 Despite his insouciant demeanor, he was deeply affected by the news.
-The architect’s design was both innovative and aesthetically pleasing.
-The entrepreneur’s perspicacity allowed her to foresee market trends before they happened.
-The organization’s altruistic efforts have positively impacted thousands of lives.
+The architectâ€™s design was both innovative and aesthetically pleasing.
+The entrepreneurâ€™s perspicacity allowed her to foresee market trends before they happened.
+The organizationâ€™s altruistic efforts have positively impacted thousands of lives.
 The dichotomy between her public persona and private life was striking.
 His erudite lecture captivated the entire audience.
 The pervasive influence of technology in modern life cannot be underestimated.
@@ -197,5 +197,6 @@ Even though the weather was terrible, they decided to proceed with the event.
 While she was reading, the doorbell rang, startling her.
 Provided that you finish your work on time, you may leave early today.
 Although the offer was tempting, he decided to decline for ethical reasons.
-If you had followed the instructions carefully, you wouldn’t have encountered any issues.
-As soon as the presentation ended, the audience erupted in applause.
+If you had followed the instructions carefully, you wouldnâ€™t have encountered any issues.
+As soon as the presentation ended, the audience erupted in applause.'''
+
