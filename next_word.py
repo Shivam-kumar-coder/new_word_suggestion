@@ -9,15 +9,14 @@ with open('model_next_word.pkl','rb') as f:
 
 with open('text.txt','r') as f:
         text=f.read()
+t = Tokenizer()
+t.fit_on_texts([text])
 
 st.title(" Next Word Suggestion Model")
 
 a=st.chat_input("write your  words")
 #st.header(" Here is Word Suggestion")
 try:
-    t = Tokenizer()
-    t.fit_on_texts([text])
-    
     def predict(seed):
         token_list = t.texts_to_sequences([seed])[0]
         token_list = pad_sequences([token_list], maxlen = 15, padding='pre')
