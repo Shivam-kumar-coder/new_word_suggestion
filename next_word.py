@@ -1,7 +1,6 @@
 import pickle 
 import streamlit as st   
 import numpy as np
-from math import *
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import Tokenizer
 with open('model_next_word.pkl','rb') as f:
